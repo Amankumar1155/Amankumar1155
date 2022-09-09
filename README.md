@@ -23,12 +23,12 @@ Hi, I'm Aman Kumar a Computer science freak. I am a React Developer 🚀 from In
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently Student on [Niet Gr Noida];
+<!--- 👨🏽‍💻 I’m currently Student on [Niet Gr Noida];
 - 🌱 I’m currently learning Android..,Java..,HTML & CSS..,Machine Learing..,etc;
 - 👯 I’m looking to collaborate on Web Dev projects 🤝;
 - 🤔 I’m looking ;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun Fact: What would life be if we had no courage to attempt anything?
+- ⚡️ Fun Fact: What would life be if we had no courage to attempt anything?-->
 - 📫 How to reach me: amanchaursiya1234@gmail.com;
 
 
